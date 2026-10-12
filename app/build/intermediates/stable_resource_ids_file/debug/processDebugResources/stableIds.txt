@@ -1,0 +1,5 @@
+com.example.baitap123:style/AppTheme = 0x7f030000
+com.example.baitap123:layout/activity_main = 0x7f020000
+com.example.baitap123:id/gradeList = 0x7f010001
+com.example.baitap123:id/studentList = 0x7f010002
+com.example.baitap123:id/classResult = 0x7f010000

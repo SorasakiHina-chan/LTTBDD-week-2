@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.baitap123.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "D:\\Bai 1 2 3\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "11",
+                        "startOffsets": "50",
+                        "endLines": "4",
+                        "endColumns": "62",
+                        "endOffsets": "388"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "62",
+                        "endOffsets": "393"
+                    }
+                }
+            ]
+        }
+    ]
+}

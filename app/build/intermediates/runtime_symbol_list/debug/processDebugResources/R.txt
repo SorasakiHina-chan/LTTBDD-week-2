@@ -1,0 +1,5 @@
+int id classResult 0x7f010000
+int id gradeList 0x7f010001
+int id studentList 0x7f010002
+int layout activity_main 0x7f020000
+int style AppTheme 0x7f030000

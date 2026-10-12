@@ -1,0 +1,41 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.baitap123"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->D:\Bai 1 2 3\app\src\main\AndroidManifest.xml:3:2-7:16
+12        android:allowBackup="true"
+12-->D:\Bai 1 2 3\app\src\main\AndroidManifest.xml:3:15-41
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="Bài tập về nhà 1 2 3"
+15-->D:\Bai 1 2 3\app\src\main\AndroidManifest.xml:3:42-78
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme" >
+17-->D:\Bai 1 2 3\app\src\main\AndroidManifest.xml:3:79-110
+18        <activity
+18-->D:\Bai 1 2 3\app\src\main\AndroidManifest.xml:4:3-6:14
+19            android:name="com.example.baitap123.MainActivity"
+19-->D:\Bai 1 2 3\app\src\main\AndroidManifest.xml:4:13-41
+20            android:exported="true" >
+20-->D:\Bai 1 2 3\app\src\main\AndroidManifest.xml:4:42-65
+21            <intent-filter>
+21-->D:\Bai 1 2 3\app\src\main\AndroidManifest.xml:5:4-145
+22                <action android:name="android.intent.action.MAIN" />
+22-->D:\Bai 1 2 3\app\src\main\AndroidManifest.xml:5:19-70
+22-->D:\Bai 1 2 3\app\src\main\AndroidManifest.xml:5:27-68
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->D:\Bai 1 2 3\app\src\main\AndroidManifest.xml:5:70-129
+24-->D:\Bai 1 2 3\app\src\main\AndroidManifest.xml:5:80-127
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#F4F5F8">
+ <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="16dp">
+  <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="BÀI 1 - DANH SÁCH SINH VIÊN" android:textSize="18sp" android:textStyle="bold" android:textColor="#222222"/>
+  <TextView android:id="@+id/studentList" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="15sp" android:padding="8dp"/>
+  <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#CCCCCC" android:layout_marginTop="8dp" android:layout_marginBottom="12dp"/>
+  <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="BÀI 2 - XẾP LOẠI HỌC LỰC" android:textSize="18sp" android:textStyle="bold" android:textColor="#222222"/>
+  <TextView android:id="@+id/gradeList" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="15sp" android:padding="8dp"/>
+  <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#CCCCCC" android:layout_marginTop="8dp" android:layout_marginBottom="12dp"/>
+  <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="BÀI 3 - BẢNG ĐIỂM LỚP" android:textSize="18sp" android:textStyle="bold" android:textColor="#222222"/>
+  <TextView android:id="@+id/classResult" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="15sp" android:padding="8dp"/>
+ </LinearLayout>
+</ScrollView>

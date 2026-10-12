@@ -1,0 +1,7 @@
+com.example.baitap123.app-pngs-0 D:\Bai 1 2 3\app\build\generated\res\pngs\debug
+com.example.baitap123.app-resValues-1 D:\Bai 1 2 3\app\build\generated\res\resValues\debug
+com.example.baitap123.app-packageDebugResources-2 D:\Bai 1 2 3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.baitap123.app-packageDebugResources-3 D:\Bai 1 2 3\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.baitap123.app-debug-4 D:\Bai 1 2 3\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.baitap123.app-debug-5 D:\Bai 1 2 3\app\src\debug\res
+com.example.baitap123.app-main-6 D:\Bai 1 2 3\app\src\main\res
